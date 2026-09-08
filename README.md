@@ -70,8 +70,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <div align="center">
 
 | 🚀 Project                                   | 📝 Description                                                                                                                                                                                      | 🛠️ Tech Stack                                                | 🔗 Link                                                             |
