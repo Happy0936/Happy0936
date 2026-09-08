@@ -70,19 +70,22 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-|  Project |  Description |  Tech Stack |  Link |
-|:----------|:--------------|:-------------|:-------|
-| **Music-Recommender** | Recommends songs and artists with embedded YouTube links | Python, Jupyter Notebook | [Repo 🔗](https://github.com/Happy0936/Music-Recommender) |
-| **Timer-and-Stopwatch** | Interactive web-based timer and stopwatch | HTML, CSS, JavaScript | [Repo 🔗](https://github.com/Happy0936/Timer-and-Stopwatch) |
-| **YouTube-Clone** | Front-end recreation of YouTube’s UI and features | HTML, CSS, JavaScript | [Repo 🔗](https://github.com/Happy0936/YouTube-Clone) |
-| **Complete-Survey-System** | Build and customize surveys via a web interface | HTML, CSS | [Repo 🔗](https://github.com/Happy0936/Complete-Survery-System) |
-| **To-Do-List** | Simple task management application | HTML, CSS, JavaScript | [Repo 🔗](https://github.com/Happy0936/To-Do-List) |
-| **LeetCode-Feedback** | Forked repo aimed at gathering or providing feedback on LeetCode problems | — | [Repo 🔗](https://github.com/Happy0936/LeetCode-Feedback) |
-
+| 🚀 Project                                   | 📝 Description                                                                                                                                                                                      | 🛠️ Tech Stack                                                | 🔗 Link                                                             |
+| :------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------------------------------------ |
+| **⚖️ LEGALai – Intelligent Legal Assistant** | AI-powered legal assistant using **Retrieval-Augmented Generation (RAG)** and **LLMs** to provide context-aware legal answers, semantic search, and intelligent interaction with legal information. | Python, Django, DRF, LangChain, LLM, RAG, Hugging Face, FAISS | [Repo 🔗](https://github.com/Happy0936/LEGALai)                     |
+| **📚 LegalAid – Legal Search System**        | Legal information search platform using **keyword-based search** to help users quickly find relevant legal sections and information.                                                                | Python, Django, HTML, CSS, JavaScript                         | [Repo 🔗](https://github.com/Happy0936/Legal_aid)                   |
+| **🌱 CropSpectra – Crop Disease Detection**  | CNN-based crop disease detection system that identifies crop diseases from leaf images and provides AI-powered multilingual assistance.                                                             | Python, TensorFlow, Keras, CNN, OpenCV, Flask, LangChain, LLM | [Repo 🔗](https://github.com/Happy0936/CropSpectra)                 |
+| **🎬 Movie Recommendation System**           | Content-based movie recommendation system that suggests similar movies through an interactive Netflix-style interface.                                                                              | Python, Pandas, Scikit-learn, Streamlit, TMDB                 | [Repo 🔗](https://github.com/Happy0936/Movie-Recommendation-System) |
+| **🎵 Music-Recommender**                     | Music recommendation system that recommends similar songs and artists based on similarity and provides YouTube links for easy access.                                                               | Python, Pandas, Jupyter Notebook                              | [Repo 🔗](https://github.com/Happy0936/Music-Recommender)           |
+| **📺 YouTube-Clone**                         | Front-end recreation of the YouTube interface with a responsive web layout and interactive components.                                                                                              | HTML, CSS, JavaScript                                         | [Repo 🔗](https://github.com/Happy0936/YouTube-Clone)               |
+| **⏱️ Timer-and-Stopwatch**                   | Interactive web-based timer and stopwatch application with a clean and responsive interface.                                                                                                        | HTML, CSS, JavaScript                                         | [Repo 🔗](https://github.com/Happy0936/Timer-and-Stopwatch)         |
 
 </div>
+
 
 ---
 
