@@ -8,13 +8,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/Happy0936">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Happy0936&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Happy's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Happy0936&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-  <a href="https://github.com/Happy0936">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy0936&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy0936&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
