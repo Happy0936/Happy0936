@@ -6,13 +6,31 @@
 
 <br>
 
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Happy0936&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Happy0936&theme=tokyonight"
+    alt="Happy Kumari GitHub Profile Details"
+    width="100%"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy0936&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Happy0936&theme=tokyonight"
+    alt="Happy Kumari GitHub Stats"
+    width="49%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Happy0936&theme=tokyonight"
+    alt="Happy Kumari Top Languages"
+    width="49%"
+  />
 
 </div>
+
 
 ---
 
